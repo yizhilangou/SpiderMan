@@ -24,7 +24,7 @@ headers = {
     "X-App-Token": "v2JDJ5JDEwJE1UY3hPRFV3TlRneU5nLzBhNDQ1MHVCQkRrMWJqUVBYRk4vT0Z3LjVUaWZRRUdnMFdLdWhx",
     "X-App-Version": "13.1.1",
     "X-Api-Version": "13",
-    "X-App-Device": "gM1cDMmRmZmRmZxYTLmdjYm1iM4MGMtUmZkZTL1ImNjZmZmZGI7kCMwMEK3czMuAjLw4COgADMMFULDlEUgsDMwwUQtMUSQByOJV0VBVFSgsTSFdVQVhEI7gTN6QEM6MTN6kTR6YDO6QzQgsDI7AyOlN2M2F0dWlnNsJjc2M2NylHT0BzUxBHOx9UMrNFVOVEezUFR",
+    "X-App-Device": "", # 抓包获取
     "X-Dark-Mode": "0",
     "X-App-Channel": "coolapk",
     "X-App-Mode": "universal",
