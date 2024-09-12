@@ -4,7 +4,7 @@ import base64
 import re
 import bcrypt
 
-X_App_Device = "gM1cDMmRmZmRmZxYTLmdjYm1iM4MGMtUmZkZTL1ImNjZmZmZGI7kCMwMEK3czMuAjLw4COgADMMFULDlEUgsDMwwUQtMUSQByOJV0VBVFSgsTSFdVQVhEI7gTN6QEM6MTN6kTR6YDO6QzQgsDI7AyOlN2M2F0dWlnNsJjc2M2NylHT0BzUxBHOx9UMrNFVOVEezUFR"
+X_App_Device = ""
 
 
 def get_v2_token():
